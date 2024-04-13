@@ -3,13 +3,13 @@ import {StyleSheet} from 'react-native';
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'blue',
+    backgroundColor: '#FF003D',
     alignItems: 'center',
     justifyContent: 'center'
   },
 
   textColor: {
-color: 'red',
+color: 'white',
 fontSize: 20,
 fontWeight: 'bold'
   },
@@ -22,12 +22,12 @@ fontWeight: 'bold'
   optionSelect: {
     height: 50,
     margin: 10,
-    backgroundColor: 'blue',
+    backgroundColor: 'white',
     width: '80%',
     padding: 10,
     borderRadius: 35,
     borderWidth: 2,
-    borderColor: 'red'
+    borderColor: 'black'
 
   },
 

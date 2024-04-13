@@ -6,42 +6,50 @@ export default function Fruits() {
     <View style={styles.container}>
      <View style={styles.header}>
         <Text 
-        style={styles.headerText}> FRUITS</Text>
+        style={styles.headerText}>BENEFITS OF FRUITS</Text>
     </View>
     <ScrollView style={styles.textContainer}>
     <Text style={styles.textt}> 
-     
+     1. Fruits are rich in various nutrients such as vitamin C, folate, potassium, and fiber. 
+        These nutrients are crucial for the healthy development of the baby and can help prevent birth defects.
 
-    </Text><Text style={styles.headerText1}>. First Trimester:</Text>2 servings per day  <Text style={styles.textt}>
-     
-
-
-
-    </Text><Text style={styles.headerText1}>. Second Trimester:</Text>2-3 servings per day<Text style={styles.textt}>
-     
-
-
-
-    </Text><Text style={styles.headerText1}>. Third Trimester:</Text>3-4 servings per day <Text styles={styles.textt}>
-    
-     
     </Text>
-    Pregnant women should choose a variety of fruits to get the most nutrients. Some good choices include:
-    <Text style={styles.textt}></Text> <Text style={styles.headerText1}>. Citrus fruits: </Text>Oranges, grapefruits, lemons, and limes are excellent sources of vitamin C, which is important for immune function and iron absorption. <Text style={styles.textt}>
+    <Text style={styles.textt}>
+     2. Some studies suggest that consuming fruits during pregnancy may help reduce the risk of preterm birth.
+        The antioxidants and other beneficial compounds found in fruits may contribute to a healthier pregnancy and lower the chances of delivering prematurely. 
+    </Text>
+    <Text style={styles.textt}>
+     3.  Many fruits have high water content, which helps keep the body hydrated during pregnancy. 
+         Staying hydrated is important for maintaining proper blood circulation, preventing constipation, and supporting overall health.
 
-
-    </Text> <Text style={styles.headerText2}>. Berries:</Text> Strawberries, blueberries, rasberries, and blackberries are packed with antioxidants, which can help protect cells from damage.<Text style={styles.textt}>
-
-    </Text> <Text style={styles.headerText2}>. Bananas: </Text>Bananas are a good source of potassium, which is important for regulating blood pressure. <Text style={styles.textt}>
-
-
-
-    </Text> <Text style={styles.headerText2}>. Apples: </Text>Apples are a good source of fibre and vitamin C. <Text style={styles.textt}>
-
-
-    </Text> <Text style={styles.headerText2}>. Melons: </Text>Cantaloupe, honeydew, and watermelon are good source of water and vitamins A and C<Text style={styles.textt}>
-
- </Text> <Text style={styles.textt1}>*Pregnant women should try to eat fresh fruits whenever possible. Dried fruit are a good source of concentrated nutrients, but they are also high in sugar, so it is important to eat them in moderation. Fruit juice can be a part of a healthy diet, but it is important to limit intake to not more than 100% juice and avoid juices with added sugar.  
+    </Text>
+    <Text style={styles.textt}>
+     4. The fiber content in fruits can help prevent constipation, a common issue during pregnancy. 
+        Fiber promotes regular bowel movements and can alleviate discomfort. 
+    </Text>
+    <Text style={styles.textt}>
+     5. Some fruits, such as bananas and oranges, are rich in potassium, which helps regulate blood pressure levels.
+        Maintaining healthy blood pressure is essential for both the mother's well-being and the baby's development.
+    </Text>
+    <Text style={styles.textt}>
+     6. Fruits are generally low in calories and fat but high in nutrients. 
+        Incorporating them into a balanced diet can help pregnant women manage their weight gain effectively while providing essential nutrition.
+    </Text>
+    <Text styles={styles.textt}>
+     7. Eating fruits as part of a balanced diet can help reduce the risk of gestational diabetes, a condition that affects some pregnant women.
+ 
+    </Text>
+    <Text style={styles.textt}>
+     8. Fruits contain natural sugars that provide a quick energy boost without causing spikes in blood sugar levels. 
+        This can be particularly helpful during pregnancy when fatigue is common. 
+    </Text>
+    <Text style={styles.textt}>
+     9. Fruits are rich in folate, a B-vitamin that is essential for the development of the baby's neural tube.
+        Adequate folate intake during early pregnancy can help prevent neural tube defects such as spina bifida.
+    </Text>
+    <Text style={styles.textt}>
+    10. Some fruits, such as watermelon and citrus fruits, have high water content and can be refreshing and hydrating.
+        They may also help alleviate nausea and morning sickness symptoms that many pregnant women experience.  
     </Text>
     </ScrollView>
         </View>
@@ -64,19 +72,7 @@ header: {
 
 headerText: { 
   fontSize: 35,
-  color: '#FF003D',
-  fontWeight: 'bold'
-},
-
-headerText1: { 
-  fontSize: 32,
   color: 'blue',
-  fontWeight: 'bold'
-},
-
-headerText2: { 
-  fontSize: 30,
-  color: 'violet',
   fontWeight: 'bold'
 },
 
@@ -86,23 +82,7 @@ textContainer: {
 },
 
 textt: {
-  fontSize: 26
-  ,color: 'blue',
-  fontWeight: 'bold',
-  
-}, 
-
-textt:  {
-   fontSize: 22
-   ,color: 'violet',
-   fontWeight: 'bold',
-},
-
-textt1:  {
-  fontSize: 22
-  ,color: 'orange',
-  fontWeight: 'bold',
+  fontSize: 20
 }
-
 
 })
