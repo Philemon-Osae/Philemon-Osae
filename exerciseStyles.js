@@ -6,7 +6,6 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'red'
     },
 
     header: {
@@ -18,7 +17,7 @@ const styles = StyleSheet.create({
 
     headerText: { 
         fontSize: 32,
-        color: 'blue',
+        color: '#FF003D',
         fontWeight: 'bold'
     },
 
@@ -36,7 +35,7 @@ const styles = StyleSheet.create({
         width: '45%',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'blue',
+        backgroundColor: '#FF003D',
         borderRadius: 44,
         elevation: 10
         },
@@ -44,17 +43,17 @@ const styles = StyleSheet.create({
         optionLogo: {
             width: 90,
             height: 120,
-            tintColor: 'red'
+            tintColor: 'white'
           },
 
           optionLogoPreg: {
             width: 100,
             height: 100,
-            tintColor: 'red'
+            tintColor: 'white'
           },
 
           optionLogoSkip: {
-            tintColor: 'red',
+            tintColor: 'white',
             width: 120,
             height: 120,
           },

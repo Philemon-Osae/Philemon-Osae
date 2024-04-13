@@ -6,19 +6,9 @@ export default function Eggs() {
     <View style={styles.container}>
      <View style={styles.header}>
         <Text 
-                 style={styles.headerText}>              EGGS</Text>
+        style={styles.headerText}>BENEFITS OF EGGS</Text>
     </View>
     <ScrollView style={styles.textContainer}>
-
-    <Text style={styles.headerText1}>First trimester</Text><Text style={styles.textt1}>During this period take 1-2 eggs per day.</Text>
-
-<Text style={styles.headerText1}>Second trimester</Text><Text style={styles.textt1}>During this period take 1-2 eggs per day.</Text>
-
-<Text style={styles.headerText1}>Third trimester</Text><Text style={styles.textt1}>During this period take 1-2 eggs per day.</Text>
-
-
-<Text style={styles.headerText2}>  Benefits of EGGS</Text>
-
     <Text style={styles.textt}>
      1. Eggs are an excellent source of high-quality protein, which is essential for the growth and development of the baby. Protein helps in the formation of new cells, tissues, and organs, and it also supports the production of enzymes and hormones.
     </Text>
@@ -31,13 +21,31 @@ export default function Eggs() {
     <Text style={styles.textt}>
      4. Some eggs are enriched with omega-3 fatty acids, particularly DHA (docosahexaenoic acid). DHA is vital for the development of the baby's brain and eyes. It may also help reduce the risk of preterm birth and promote healthy birth weight.
     </Text>
-    
+   
     <Text style={styles.textt}>
      5. Eggs are generally well-tolerated by most people and are easy to digest. This can be especially beneficial for pregnant women who may experience digestive issues such as nausea or heartburn.
     </Text>
+    <Text style={styles.textt}>
+     6. Eggs can be beneficial for managing weight during pregnancy due to their high protein content. Protein helps promote feelings of fullness and can aid in maintaining a healthy weight during pregnancy.
+
+    </Text>
+    <Text style={styles.textt}>
+     7. Eggs can be prepared in various ways, making them a versatile ingredient in meals. They can be incorporated into breakfast dishes, salads, sandwiches, or used as a protein source in main courses. This versatility allows pregnant women to enjoy.
+    </Text>
+    <Text style={styles.textt}>
+     8.  Eggs are widely available and relatively inexpensive compared to other sources of protein. This makes them a practical choice for pregnant women who want to maintain a healthy diet without breaking the bank.
+
+    </Text>
+    <Text style={styles.textt}>
+    9. Eggs contain nutrients like lutein and zeaxanthin, which are beneficial for eye health. These antioxidants can help protect against age-related macular degeneration and promote healthy vision for both the mother and baby.
+    </Text>
+
+
+  <View>
    <Text style={styles.textt}>
           *Overall, eggs are a nutritious food choice for pregnant women due to their high protein content, choline, omega-3 fatty acids, vitamins, and minerals. 
    </Text>
+   </View>
     </ScrollView>
         </View>
   )
@@ -63,33 +71,13 @@ headerText: {
   fontWeight: 'bold'
 },
 
-headerText1: { 
-  fontSize: 35,
-  color: 'violet',
-  fontWeight: 'bold'
-},
-
-headerText2: { 
-  fontSize: 30,
-  color: 'orange',
-  fontWeight: 'bold'
-},
-
-
 textContainer: {
   marginTop: 10,
-  padding: 5
+  padding: 6
 },
 
 textt: {
-  fontSize: 20,
-  color: 'pink'
-},
-
-textt1:  {
-  fontSize: 22
-  ,color: 'blue',
-  fontWeight: 'bold',
+  fontSize: 25
 }
 
 })

@@ -5,18 +5,17 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         alignItems: 'center',
-        backgroundColor: 'red'
     },
 
     header: {
-        marginTop: 50,
-        width: 177,
-        height: 40,
+        marginTop: 51,
+        width: 178,
+        height: 41,
         
     },
     headerText: { 
         fontSize: 32,
-        color: 'blue',
+        color: 'reddish-blue',
         fontWeight: 'bold'
     },
 
@@ -26,7 +25,7 @@ const styles = StyleSheet.create({
         height: '60%',
         width: '100%',
         justifyContent: 'space-around',
-        color: 'Blue'
+        color: 'Red'
     },
 
     optionSelect: {        
@@ -35,7 +34,7 @@ const styles = StyleSheet.create({
         width: '45%',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: 'blue',
+        backgroundColor: 'red',
         borderRadius: 44,
         elevation: 10
         },
@@ -43,7 +42,6 @@ const styles = StyleSheet.create({
         optionLogoFruit: {
             width: '100%',
             height: 492,
-            color: 'red'
           },
 
           optionLogo: {
@@ -71,31 +69,37 @@ const styles = StyleSheet.create({
           eggs: {
             width: 100,
             height: 80,
-            tintColor: 'white' 
+            tintColor: 'Blue' 
           },
 
           dairy: {
             width: 100,
             height: 100,
-            tintColor: 'white' 
+            tintColor: 'blue' 
           },
 
-          fruit: {
+          fruits: {
             width: 100,
             height: 100,
-            tintColor: 'red' 
+            tintColor: 'blue' 
           },
 
-          vegetables: {
+          legumes: {
             width: 100,
             height: 100,
-            tintColor: 'red' 
+            tintColor: 'blue' 
+          },
+
+          vegetable: {
+            width: 100,
+            height: 100,
+            tintColor: 'blue' 
           },
 
           water: {
             width: 100,
             height: 100,
-            tintColor: 'red' 
+            tintColor: 'blue' 
           },
 
           recordText: {

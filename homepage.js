@@ -1,88 +1,45 @@
-import { Image, TouchableOpacity, View ,ScrollView, ImageBackground, ImageBackgroundComponent } from "react-native";
+import {StyleSheet} from 'react-native';
 
-import styles from "../styles/homepage";
-import { Button } from "react-native-web";
+const styles = StyleSheet.create({
+    container: {
+      flex: 1,
+      justifyContent: 'center',
+      alignItems: 'center',
+      backgroundColor: 'pink'
+    },
+  
+    logo: {
+        top: -3,
+        width: 100,
+        height: 90,
+      },
 
-export const Homepage = ({navigation}) => {
-    return(
+      optionContainer: {
+        width: '100%',
+        justifyContent: 'center',
+        alignItems: 'center',
+      },
+
+      optionSelect: {        
+      height: 192,
+      margin: 25,
+      justifyContent: 'center',
+      alignItems: 'center',
+      backgroundColor: 'white',
+      width: 280,
+      borderRadius: 113,
+      elevation: 10
+      },
       
+      optionLogo: {
+        width: '50%',
+        height: 130,
+      },
 
+    exerciseLogo: {
+        width: 70,
+        height: 130,
+    }
+});
 
-        <ScrollView style={styles.textContainer}>
-
-        <View style={styles.container}>
-        <View>
-
-       
-        <Image source={require('../images/Capture.PNG')} 
-        style={[styles.logo]}
-        />
-        </View>
-
-        <View style={styles.optionContainer}>
-            
-        <TouchableOpacity style={styles.optionSelect}
-                onPress={() => navigation.navigate('Nutrition')}
-                > 
-                <Image source={require('../images/nutrition.png')} 
-                    style={styles.optionLogo}
-                />
-
-
-                  NUTRITION
-                </TouchableOpacity>
-                
-            
-
-            <TouchableOpacity style={styles.optionSelect}
-                onPress={() => navigation.navigate('Exercise')}
-                >
-                <Image source={require('../images/stretch.png')} 
-                    style={styles.optionLogo}
-                />
-
-
-
-                   EXERCISES
-                </TouchableOpacity>
-
-
-
-
-              
-                
-                
-                
-                 <TouchableOpacity style={styles.optionSelect}
-                onPress={() => navigation.navigate('Tips')}
-                >
-                <Image source={require('../images/bulb.png')} 
-                    style={styles.exerciseLogo}
-                />
-
-
-
-                    TIPS 
-    </TouchableOpacity> 
-                
-
-              
-                
-                 <TouchableOpacity style={styles.optionSelect}
-                onPress={() => navigation.navigate('order drugs')}
-                > 
-                <Image source={require('../images/medicine.png')} 
-                    style={styles.optionLogo}
-                />
-
-
-
-                  ORDER MEDICATIONS
-                </TouchableOpacity>
-                
-        </View>
-        
-        
-        </View>
-        </ScrollView>
-    )}
+export default styles;

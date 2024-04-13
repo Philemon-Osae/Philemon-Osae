@@ -6,19 +6,9 @@ export default function Water() {
     <View style={styles.container}>
      <View style={styles.header}>
         <Text 
-        style={styles.headerText}>WATER</Text>
+        style={styles.headerText}>BENEFITS OF WATER</Text>
     </View>
     <ScrollView style={styles.textContainer}>
-<Text style={styles.headerText1}>First trimester</Text><Text style={styles.textt1}>During this period take 8 cups of water per day.</Text>
-
-<Text style={styles.headerText1}>Second trimester</Text><Text style={styles.textt1}>During this period take 10 cups of water per day.</Text>
-
-<Text style={styles.headerText1}>Third trimester</Text><Text style={styles.textt1}>During this period take 12 cups of water per day.</Text>
-
-
-<Text 
-        style={styles.headerText2}>Benefits of Water</Text>
-
     <Text style={styles.textt}>
      1. Water is essential for maintaining proper hydration levels in the body, especially during pregnancy. 
         It helps carry nutrients to the baby, supports the development of the placenta, and aids in digestion.
@@ -40,7 +30,21 @@ export default function Water() {
       5. Water acts as a natural detoxifier by flushing out waste products and toxins from the body. This is particularly important during pregnancy when there is an increased workload on the kidneys.
      </Text>
 
-     
+     <Text style={styles.textt}>
+      6. Pregnant women are more prone to UTIs due to hormonal changes and pressure on the bladder from the growing uterus. Drinking plenty of water helps flush bacteria out of the urinary tract, reducing the risk of UTIs.
+     </Text>
+     <Text style={styles.textt}>
+      7. Swelling, or edema, is common during pregnancy due to increased fluid retention. Drinking water can help reduce swelling by promoting proper fluid balance in the body.
+     </Text>
+     <Text style={styles.textt}>
+      8. Adequate hydration is essential for breastfeeding mothers as it helps maintain milk supply. Drinking enough water can support healthy breast milk production after childbirth.
+     </Text>
+     <Text style={styles.textt}>
+      9. Pregnancy can put extra strain on the joints and muscles, leading to discomfort or pain. Staying hydrated with water helps lubricate the joints, reducing the risk of joint pain and promoting better mobility.
+     </Text>
+     <Text style={styles.textt}>
+     10. Proper hydration is essential for maintaining healthy skin during pregnancy. Drinking enough water helps keep the skin hydrated, reducing dryness, itchiness, and promoting a radiant complexion.  
+      </Text> 
     </ScrollView>
         </View>
   )
@@ -62,21 +66,8 @@ header: {
 
 headerText: { 
   fontSize: 35,
-  color: '#FF003D',
-  fontWeight: 'bold'
-},
-
-headerText1: { 
-  fontSize: 28,
   color: 'blue',
   fontWeight: 'bold'
-},
-
-headerText2: { 
-  fontSize: 28,
-  color: 'brown',
-  fontWeight: 'bold',
-  
 },
 
 textContainer: {
@@ -84,16 +75,8 @@ textContainer: {
   padding: 5
 },
 
-textt:  {
-  fontSize: 22
-  ,color: 'violet',
-  fontWeight: 'bold',
-},
-
-textt1:  {
-  fontSize: 22
-  ,color: 'yellow',
-  fontWeight: 'bold',
+textt: {
+  fontSize: 20
 }
 
 })

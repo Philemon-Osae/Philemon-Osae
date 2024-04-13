@@ -1,58 +1,35 @@
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
-# Local History for Visual Studio Code
-.history/
+# dependencies
+node_modules/
 
-# Built Visual Studio Code Extensions
-*.vsix
+# Expo
+.expo/
+dist/
+web-build/
 
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
 
-# Local History for Visual Studio Code
-.history/
+# Metro
+.metro-health-check*
 
-# Built Visual Studio Code Extensions
-*.vsix
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
 
-# Prerequisites
-*.d
+# macOS
+.DS_Store
+*.pem
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# local env files
+.env*.local
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# typescript
+*.tsbuildinfo

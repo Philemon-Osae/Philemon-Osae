@@ -18,7 +18,6 @@ import Knee from './assets/components/kneeBend';
 import Stand from './assets/components/stand&Stretch';
 import BendBack from './assets/components/bendBackwards';
 import LegStretch from './assets/components/legStretch';
-import { Tips } from './assets/components/Tips';
 
 
 
@@ -151,13 +150,6 @@ function App() {
                 headerShown: false,
               }}
       />
-       <Stack.Screen name="Tips" component={Tips} 
-             options={{
-                headerTitle: '',
-                headerShown: false,
-              }}
-      />
-
 
 
       </Stack.Navigator>
