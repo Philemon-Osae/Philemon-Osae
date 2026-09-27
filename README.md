@@ -1,1 +1,30 @@
-# Philemon_Osae
+### Hi, I'm Philemon Osae 👋
+**Frontend Team Lead @ Healthy Habits (6 devs) | React Developer | Accra, Ghana**
+
+I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233206834470)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:philemonosae1@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000?style=for-the-badge&logo=vercel&logoColor=white)](https://phil-jazzy.netlify.app)
+
+### 🚀 Live Work - 3 Client Sites
+
+| Project | What It Solves | Stack | Link |
+| --- | --- | --- | --- |
+| **Phil-Jazzy** | Artist booking + Paystack + WhatsApp | React, Firebase | [Live](https://phil-jazzy.netlify.app) |
+| **Kwamepapaa** | Brand / Business Website | React, Tailwind | [Live](https://kwamepapaa.netlify.app) |
+| **Wedding GH** | Wedding invitation + RSVP + Gallery | React, Tailwind | [Live](https://weddinginvitation-gh.netlify.app) |
+| **Healthy Habits** | Health platform (Lead 6 devs) | React | Coming soon |
+
+### 🔧 What I Can Do
+
+- **Booking Websites:** Calendar + MoMo / Paystack + WhatsApp auto-confirm
+- **Business & Event Websites:** Landing pages, brand sites, wedding sites with RSVP
+- **Frontend:** React.js, JavaScript, Tailwind, Firebase, Git, Netlify/Vercel
+
+### 💼 Services
+Business Website - **GH₵1,200 starter** | Open for Junior React Roles
+📍 Accra, Ghana | GCTU - CS | Volunteer @ Techten Planet
+
+---
+⭐ **3 live businesses trust my code
