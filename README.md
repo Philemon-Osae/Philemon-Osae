@@ -19,9 +19,12 @@ I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
 - **Business & Event Websites:** Landing pages, brand sites, wedding sites with RSVP
 - **Frontend:** React.js, JavaScript, Tailwind, Firebase, Git, Netlify/Vercel
 
-### 💼 Services
-Business Website - **GH₵1,200 starter** | Open for Junior React Roles
-📍 Accra, Ghana | GCTU - CS | Volunteer @ Techten Planet
-
+### ### 💼 Services
+**Web Application Development** - Booking Systems | Business Websites | Dashboards
+- Starter Business Site: GH₵1,200
+- Full Web App (Auth + Paystack + Dashboard): GH₵2,500+
+- 📍 GCTU - BSc Web Application Development (L100) | Accra, Ghana
+- 👨‍💻 Team Lead @ Healthy Habits (6 devs) | Volunteer @ Techten Planet
+- Open for Internships & Freelance: 0206834470
 ---
 ⭐ **3 live businesses trust my code
