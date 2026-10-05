@@ -11,7 +11,7 @@ I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
 | **Phil-Jazzy** | Artist booking + Paystack + WhatsApp | React, Firebase | [Live](https://phil-jazzy.netlify.app) |
 | **Kwamepapaa** | Brand / Business Website | React, Tailwind | [Live](https://kwamepapaa.netlify.app) |
 | **Wedding GH** | Wedding invitation + RSVP + Gallery | React, Tailwind | [Live](https://weddinginvitation-gh.netlify.app) |
-| **Wedding Invite**| Wedding invitation + animation + RSVP | HTML, CSS, JavaScript | [Live](https://wedding-invitation-gh.netlify.app) | 
+| **Wedding Invite**| Wedding invitation + animation + RSVP | HTML, CSS, JavaScript, Google forms API | [Live](https://wedding-invitation-gh.netlify.app) | 
 | **Adom the Trombonist**| Instrumentalist booking + FAQ + Try my horn pad + social media | HTML, CSS, JavaScript| [Live](https://adom-the-trombonist-gh.netlify.app) | 
 | **Healthy Habits** | Health platform (Lead 6 devs) | React | Coming soon |
 
