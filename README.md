@@ -1,5 +1,5 @@
 ### Hi, I'm Philemon Osae 👋
-**Frontend Team Lead @ Healthy Habits (6 devs) | React Developer | Accra, Ghana**
+**Frontend developer | Team Lead @ Healthy Habits (6 devs) | React Developer | Accra, Ghana**
 
 I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233206834470)
@@ -14,11 +14,13 @@ I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
 | **Wedding Invite**| Wedding invitation + animation + RSVP | HTML, CSS, JavaScript, Google forms API | [Live](https://wedding-invitation-gh.netlify.app) | 
 | **Adom the Trombonist**| Instrumentalist booking + FAQ + Try my horn pad + social media | HTML, CSS, JavaScript| [Live](https://adom-the-trombonist-gh.netlify.app) | 
 | **Healthy Habits** | Health platform (Lead 6 devs) | React | Coming soon |
+| **MarketPlace**| Buying and selling platforms | HTML, CSS, JS, Paystack, node.js, express, MySQL| Coming soon |
 
 ### 🔧 What I Can Do
 
 - **Booking Websites:** Calendar + MoMo / Paystack + WhatsApp auto-confirm
 - **Business & Event Websites:** Landing pages, brand sites, wedding sites with RSVP
+- **Web apps** mobile responsive web pages, Modern, mobile friendly business web apps, booking platforms, and e-commerce sites built for speed and SEO. 
 - **Frontend:** React.js, JavaScript, Tailwind, Firebase, Git, Netlify/Vercel
 
   💼 Services
