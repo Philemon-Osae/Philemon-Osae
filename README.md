@@ -25,7 +25,11 @@ I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
 - **Booking Websites:** Calendar + MoMo / Paystack + WhatsApp auto-confirm + Instant Quote Calculator GHC1250
 - **Business & Event Websites:** Landing pages, brand sites, wedding sites with envelope animation + countdown 51d 22h 29m + RSVP + Google Maps/Forms + MoMo 0547833766 + Dress code
 - **Web apps** mobile responsive web pages, Modern, mobile friendly business web apps, booking platforms, and e-commerce sites built for speed and SEO
-- **Frontend:** React.js, JavaScript, Tailwind, Firebase, Web Audio API 12-Note Chromatic Brass, Countdown Timer, Envelope Animation, FAQ Accordion, wa.me API, Git, Netlify/Vercel
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, React Native (Expo)
+- **Backend:** Node.js, Express, MySQL, Firebase (Auth + Database)
+- **APIs & Integrations:** Paystack, Hubtel, WhatsApp (wa.me), Google Maps, Google Forms, Web Audio API
+- **Tools & Deployment:** Git & GitHub, Netlify, Vercel
+- **Interactive features I build:** Instant quote calculators, countdown timers, envelope animations, FAQ accordions, drum and brass pads
 💼 Services
 **Web Application Development** - Booking Systems | Business Websites | Dashboards
 - Starter Business Site: GH₵1,200
@@ -36,4 +40,3 @@ I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
 - Open for Internships & Freelance: 0206834470
 ---
 ⭐ **6 live businesses trust my code - Phil Tech, Phil Jazzy, Kwamepapaa, Wedding GH V1/V2 New Creation Chapel Tesano, Adom Trombonist NADAMB CCTU Taifa-Wakiki**
- 
