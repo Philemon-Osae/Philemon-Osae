@@ -1,4 +1,4 @@
-### Hi, I'm Philemon Osae 👋
+### Hi, I'm Philemon Osae-Hienno Kodua 👋
 **Full stack developer | Team Lead @ Healthy Habits (6 devs) | React Developer | Accra, Ghana**
 
 I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
