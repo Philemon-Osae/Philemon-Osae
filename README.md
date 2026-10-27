@@ -11,6 +11,8 @@ I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
  
 | Project | What It Solves | Stack | Link |
 | --- | --- | --- | --- |
+| **ClassHub** | Secured class portalA class website I built for my own class, so WhatsApp stays for chat and ClassHub is the searchable archive. Students register once, then browse materials by course and week, past questions, announcements, the real teaching timetable with a live week banner, deadline countdowns, and send requests. Course reps get an upload center (files or Drive links), pinned announcements, deletion, “seen by” counts and one-tap Share to WhatsApp.
+Secure by design: rep access is enforced on the server. A Postgres trigger checks each rep’s index and secret code, and row level security blocks everyone else, so it can’t be bypassed from the browser. |HTML, CSS, Vanilla JS, Supabase, Postgres, Row Level Security, Auth, Storage, wa.me API, Vercel | [Live](https://classhub2.vercel.app/) |
 | **Phil Tech** | Campus business booking - Packages Basic GHC500-800 Standard 1200-1800 Premium 2500-4000, business info, MoMo, delivery fee, domain & colors, wa.me to WhatsApp DM 0206834470 | HTML, CSS, Vanilla JS, Vercel, wa.me API | [Live](https://phil-tech-two.vercel.app) |
 | **Phil-Jazzy** | Artist booking + TRY MY KIT 9-pad drum machine Q,W,E,A,S,D,Z,X,C + WORSHIP PAD 12-note C-B chord sustainer Major/Minor Warm/Bright/Strings/Airy + AI rate card Church 250-400 Wedding 400-700 Studio 200/hr Full Band 800+ WhatsApp booking | HTML, CSS, Vanilla JS, Web Audio API, AI Chatbot, Netlify | [Live](https://phil-jazzy.netlify.app) |
 | **Kwamepapaa** | Brand / Business Website + booking + rental - Services Church 250 Wedding 250 Concert 250 Studio 250 Brand Promo 200 + Rentals Drums 800 Keyboard 400 Bass 400 + GET AN INSTANT QUOTE calculator GHC1250 bundle discount + Send Quote WhatsApp + UEW + TikTok @kwamepapaa_backup | HTML, CSS, Vanilla JS, Instant Quote Calculator, wa.me API, Netlify | [Live](https://kwamepapaa.netlify.app) |
@@ -26,7 +28,7 @@ I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
 - **Business & Event Websites:** Landing pages, brand sites, wedding sites with envelope animation + countdown 51d 22h 29m + RSVP + Google Maps/Forms + MoMo 0547833766 + Dress code
 - **Web apps** mobile responsive web pages, Modern, mobile friendly business web apps, booking platforms, and e-commerce sites built for speed and SEO
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, React Native (Expo)
-- **Backend:** Node.js, Express, MySQL, Firebase (Auth + Database)
+- **Backend:** Node.js, Express, MySQL, Firebase (Auth + Database), Supabase
 - **APIs & Integrations:** Paystack, Hubtel, WhatsApp (wa.me), Google Maps, Google Forms, Web Audio API
 - **Tools & Deployment:** Git & GitHub, Netlify, Vercel
 - **Interactive features I build:** Instant quote calculators, countdown timers, envelope animations, FAQ accordions, drum and brass pads
@@ -39,4 +41,4 @@ I turn Instagram DMs into booking & sales machines for Ghanaian businesses.
 - 🔗 LinkedIn: [philemon-osae-hienno-kodua](https://www.linkedin.com/in/philemon-osae-hienno-kodua-650492304)
 - Open for Internships & Freelance: 0206834470
 ---
-⭐ **6 live businesses trust my code - Phil Tech, Phil Jazzy, Kwamepapaa, Wedding GH V1/V2 New Creation Chapel Tesano, Adom Trombonist NADAMB CCTU Taifa-Wakiki**
+⭐ **7 live businesses trust my code - Classhub, Phil Tech, Phil Jazzy, Kwamepapaa, Wedding GH V1/V2 New Creation Chapel Tesano, Adom Trombonist NADAMB CCTU Taifa-Wakiki**
